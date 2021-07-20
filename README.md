@@ -9,8 +9,7 @@
 
 <!--Banner session-->
 <p align="center">
-  <img src="http://chepkadog.net/download/359-engracado-bonito-e-inteligente-cachorro-programador.jpg
-" alt="Algoritmo java00" tittle="VCamargo">
+  <img src="http://chepkadog.net/download/359-engracado-bonito-e-inteligente-cachorro-programador.jpg" alt="Algoritmo java00" tittle="VCamargo">
 </p>
 
 
