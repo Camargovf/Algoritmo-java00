@@ -6,7 +6,7 @@
 <!--About session-->
 <h1 align="center">Algoritmo feito em java.</h1>
 
-<h2 align="center"> Link para o desafio direto https://github.com/Camargovf/Algoritmo-java00/tree/master/src/main/java </h2>
+<h5 align="center"> Link para o desafio direto https://github.com/Camargovf/Algoritmo-java00/tree/master/src/main/java</h5>
 
 <!--Banner session-->
 <p align="center">
